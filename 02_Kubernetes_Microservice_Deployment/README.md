@@ -46,7 +46,7 @@ Le script `deploy-StreamingApp.sh` est utilisé pour appliquer toutes les config
 # Exemple de commandes
 chmod +x deploy-StreamingApp.sh
 ./deploy-StreamingApp.sh
-
+  ```
 
 
 ### 3. Récupération des Logs
@@ -58,4 +58,4 @@ Le script get-logs.sh permet de consolider les logs des deux microservices pour 
 chmod +x get-logs.sh
 ./get-logs.sh
 # Les logs sont enregistrés dans logs/fastapi-logs.txt et logs/postgres-logs.txt
-
+ ```
