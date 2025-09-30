@@ -47,7 +47,9 @@ Le script `deploy-StreamingApp.sh` est utilisé pour appliquer toutes les config
 chmod +x deploy-StreamingApp.sh
 ./deploy-StreamingApp.sh
 
-3. Récupération des Logs
+
+
+### 3. Récupération des Logs
 Le script get-logs.sh permet de consolider les logs des deux microservices pour le diagnostic.
 
 Bash
