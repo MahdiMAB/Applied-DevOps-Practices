@@ -1,0 +1,198 @@
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Content test
+============================ 
+Test 'life is beautiful': Expected 1, Got 0.5994 → SUCCESS
+Test 'that sucks': Expected -1, Got -0.3612 → SUCCESS
+
+============================
+    Authentication test
+============================
+Test alice: Expected 200, Got 200 ==> SUCCESS
+Test bob: Expected 200, Got 200 ==> SUCCESS
+Test clementine: Expected 403, Got 403 ==> SUCCESS
+
+============================
+    Authorization test
+============================
+
+Test alice on v1: Expected 200, Got 200 → SUCCESS
+Test alice on v2: Expected 200, Got 200 → SUCCESS
+Test bob on v1: Expected 200, Got 200 → SUCCESS
+Test bob on v2: Expected 403, Got 403 → SUCCESS
