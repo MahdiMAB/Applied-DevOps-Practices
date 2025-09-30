@@ -1,0 +1,17 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: fastapi-ingress
+spec:
+  ingressClassName: traefik  
+  rules:
+  - host: streamingapp.devops-mahdi-tarining.ip-ddns.com  
+    http:
+      paths:
+        - path: /  
+          pathType: Prefix
+          backend:
+            service:
+              name: fastapi-service 
+              port:
+                number: 5000 
