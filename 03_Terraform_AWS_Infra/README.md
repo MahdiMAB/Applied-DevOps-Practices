@@ -45,13 +45,17 @@ Initialiser les modules et le backend :
 ```Bash
 
 terraform init
-Visualiser les changements :
 ```
+
+Visualiser les changements :
+
 ```Bash
 
 terraform plan
-Déployer l'infrastructure :
 ```
+
+Déployer l'infrastructure :
+
 ```Bash
 
 terraform apply
