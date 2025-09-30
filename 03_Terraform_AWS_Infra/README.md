@@ -35,23 +35,24 @@ module "ec2" {
   # ...
   db_host = module.rds.primary_db_address
 }
-
+```
 
 📋 Exécution
 L'infrastructure peut être provisionnée avec les commandes Terraform standards :
 
 Initialiser les modules et le backend :
 
-Bash
+```Bash
 
 terraform init
 Visualiser les changements :
-
-Bash
+```
+```Bash
 
 terraform plan
 Déployer l'infrastructure :
-
-Bash
+```
+```Bash
 
 terraform apply
+```
