@@ -52,7 +52,8 @@ chmod +x deploy-StreamingApp.sh
 ### 3. Récupération des Logs
 Le script get-logs.sh permet de consolider les logs des deux microservices pour le diagnostic.
 
-Bash
+
+```Bash
 
 chmod +x get-logs.sh
 ./get-logs.sh
