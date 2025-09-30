@@ -32,7 +32,7 @@ Pour exécuter le pipeline de tests, assurez-vous que Docker et Docker Compose s
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone https://github.com/MahdiMAB/docker-api-test-pipeline.git
+    git clone https://github.com/MahdiMAB/Applied-DevOps-Practices.git
     cd docker-api-test-pipeline
     ```
 2.  **Lancer le script de setup :**
