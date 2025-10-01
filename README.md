@@ -5,9 +5,6 @@
 Ce dépôt présente trois projets complets illustrant ma maîtrise des outils et des méthodologies DevOps modernes, allant du conteneurisation à l'orchestration, jusqu'à la gestion d'infrastructure multi-cloud.
 
 2.  Compétences Techniques (La "Boîte à Outils")
-Créez une liste claire et visuelle des technologies que vous avez utilisées dans ces projets.
-
-Markdown
 
 ##  Maîtrise des Outils et Technologies
 
