@@ -28,6 +28,6 @@ Ce dépôt présente trois projets complets illustrant ma maîtrise des outils e
 | **03** | **Architecture Multi-Tier AWS avec Terraform** | Terraform, AWS, RDS Multi-AZ, Modularité | Provisionnement d'une infrastructure cloud sécurisée, hautement disponible et automatisée (IaC). |
 
 ***
-#### [Détails du Projet 01 : Conteneurisation d'une API](01_Docker_FastAPI_Postgres/README.md)
-#### [Détails du Projet 02 : Déploiement K8s avec Bases de Données](02_Kubernetes_Microservice_Deployment/README.md)
+#### [Détails du Projet 01 : API Test Pipeline (CI/CD)](01_API_Test_Pipeline/README.md)
+#### [Détails du Projet 02 : Déploiement K8s et Bases de Données](02_Kubernetes_Microservice_Deployment/README.md)
 #### [Détails du Projet 03 : Infrastructure AWS Modulaire avec Terraform](03_Terraform_AWS_Infra/README.md)
