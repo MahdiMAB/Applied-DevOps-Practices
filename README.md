@@ -2,9 +2,9 @@
 
 **Ingénieur DevOps / Cloud** spécialisé dans l'**Automatisation de l'Infrastructure (IaC)**, le **Déploiement Continu (CI/CD)** et la gestion de l'infrastructure **Cloud Native (Kubernetes & AWS)**.
 
-Ce dépôt présente trois projets complets illustrant ma maîtrise des outils et des méthodologies DevOps modernes, allant du conteneurisation à l'orchestration, jusqu'à la gestion d'infrastructure multi-cloud.
+Ce dépôt présente trois projets, allant du conteneurisation à l'orchestration, jusqu'à la gestion d'infrastructure multi-cloud.
 
-2.  Compétences Techniques (La "Boîte à Outils")
+
 
 ##  Maîtrise des Outils et Technologies
 
@@ -17,7 +17,7 @@ Ce dépôt présente trois projets complets illustrant ma maîtrise des outils e
 | **Systèmes / Langages** | Python (FastAPI), PostgreSQL, Bash Scripting, Linux (User Data) |
 
 
-3.  Le Sommaire des Projets (Le "Guide")
+
 
 ##  Les Projets
 
