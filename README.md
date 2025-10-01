@@ -18,9 +18,6 @@ Ce dépôt présente trois projets complets illustrant ma maîtrise des outils e
 
 
 3.  Le Sommaire des Projets (Le "Guide")
-Chaque projet est détaillé avec un lien direct vers son dossier et une description en une ligne, expliquant sa valeur ajoutée.
-
-Markdown
 
 ##  Les Projets
 
