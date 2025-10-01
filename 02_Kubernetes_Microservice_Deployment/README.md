@@ -5,7 +5,7 @@ Ce projet consiste à déployer une application de streaming composée de deux m
 
 Il démontre la capacité à **modéliser une architecture multi-tier** en utilisant les objets Kubernetes standard et à garantir la résilience, l'évolutivité et la sécurité de l'application.
 
-## 💡 Problématique & Objectifs
+##  Problématique & Objectifs
 L'objectif était de migrer une architecture Docker Compose vers Kubernetes en respectant les bonnes pratiques de production :
 
 1.  **Orchestration :** Déployer les services d'application (FastAPI) et de base de données (PostgreSQL) avec les objets K8s appropriés (**Deployment** et **StatefulSet**).
@@ -14,7 +14,7 @@ L'objectif était de migrer une architecture Docker Compose vers Kubernetes en r
 4.  **Exposition :** Exposer l'API FastAPI au monde extérieur via un objet **Ingress**.
 5.  **Automatisation :** Créer des scripts d'automatisation pour le déploiement et la récupération des logs.
 
-## 🛠️ Stack Technique
+##  Stack Technique
 | Composant | Rôle dans le Projet |
 | :--- | :--- |
 | **Kubernetes (K8s)** | Orchestration de l'ensemble de l'architecture. |
@@ -24,7 +24,7 @@ L'objectif était de migrer une architecture Docker Compose vers Kubernetes en r
 | **Secrets / ConfigMap** | Injection sécurisée des mots de passe (`POSTGRES_PASSWORD` encodé en Base64) et des configurations (User, DB). |
 | **Ingress (Traefik)** | Exposition de l'API FastAPI via un nom de domaine spécifique. |
 
-## ⚙️ Architecture Déployée
+##  Architecture Déployée
 L'architecture a été conçue pour garantir la communication interne et l'accès externe :
 1.  Le **StatefulSet PostgreSQL** est exposé par un **Service (db)**.
 2.  Le **Deployment FastAPI** (3 réplicas) est exposé par un **Service (fastapi-service)** et se connecte à la DB via `db:5432`.
@@ -34,7 +34,7 @@ L'architecture a été conçue pour garantir la communication interne et l'accè
 
 ---
 
-## 🚀 Exécution et Déploiement
+##  Exécution et Déploiement
 
 ### 1. Structure du Projet
 Tous les manifestes Kubernetes se trouvent dans le dossier `yaml-manifests/`.
