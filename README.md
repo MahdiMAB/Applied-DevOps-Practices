@@ -28,10 +28,6 @@ Ce dépôt présente trois projets, allant du conteneurisation à l'orchestratio
 | **03** | **Architecture Multi-Tier AWS avec Terraform** | Terraform, AWS, RDS Multi-AZ, Modularité | Provisionnement d'une infrastructure cloud sécurisée, hautement disponible et automatisée (IaC). |
 
 
-C'est une excellente idée ! Pour rendre votre README.md global plus pratique pour les recruteurs (ou quiconque veut tester vos projets), vous devriez ajouter une section "Démarrer" ou "Comment Exécuter".
-
-Voici la nouvelle section à ajouter à votre Applied-DevOps-Practices/README.md principal :
-
 ## Démarrage et Exécution des Projets
 Pour explorer et exécuter les projets, suivez ces étapes.
 
