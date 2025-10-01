@@ -40,20 +40,23 @@ Commencez par cloner l'intégralité du dépôt sur votre machine locale :
 
  ```bash
     git clone https://github.com/MahdiMAB/Applied-DevOps-Practices.git
-    ```
+ ```
 
 2. Accéder aux Projets
 Utilisez la commande cd pour entrer dans le dossier du projet que vous souhaitez examiner.
+
 
 Projet	Commande pour y accéder rapidement
 Projet 01 (01_API_Test_Pipeline)
 ```bash
 cd 01_API_Test_Pipeline
 ```
+
 Projet 02 (02_Kubernetes_Microservice_Deployment)	
 ```bash
 cd 02_Kubernetes_Microservice_Deployment
 ```
+
 Projet 03 (03_Terraform_AWS_Infra)	
 ```bash
 cd 03_Terraform_AWS_Infra
