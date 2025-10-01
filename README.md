@@ -27,6 +27,40 @@ Ce dépôt présente trois projets complets illustrant ma maîtrise des outils e
 | **02** | **Déploiement d'un Microservice sur Kubernetes** | Kubernetes, YAML, CI/CD (Simulé) | Orchestration, Haute Disponibilité, Persistence de données (StatefulSet). |
 | **03** | **Architecture Multi-Tier AWS avec Terraform** | Terraform, AWS, RDS Multi-AZ, Modularité | Provisionnement d'une infrastructure cloud sécurisée, hautement disponible et automatisée (IaC). |
 
+
+C'est une excellente idée ! Pour rendre votre README.md global plus pratique pour les recruteurs (ou quiconque veut tester vos projets), vous devriez ajouter une section "Démarrer" ou "Comment Exécuter".
+
+Voici la nouvelle section à ajouter à votre Applied-DevOps-Practices/README.md principal :
+
+## Démarrage et Exécution des Projets
+Pour explorer et exécuter les projets, suivez ces étapes.
+
+1. Clonage du Dépôt
+Commencez par cloner l'intégralité du dépôt sur votre machine locale :
+
+''' Bash
+
+git clone https://github.com/MahdiMAB/Applied-DevOps-Practices.git
+'''
+cd Applied-DevOps-Practices
+(Remplacez [URL_DE_VOTRE_DEPOT] par l'URL HTTP ou SSH réelle de votre dépôt GitHub.)
+
+2. Accéder aux Projets
+Utilisez la commande cd pour entrer dans le dossier du projet que vous souhaitez examiner.
+
+Projet	Commande pour y accéder rapidement
+Projet 01 (01_API_Test_Pipeline)	cd 01_API_Test_Pipeline
+Projet 02 (02_Kubernetes_Microservice_Deployment)	cd 02_Kubernetes_Microservice_Deployment
+Projet 03 (03_Terraform_AWS_Infra)	cd 03_Terraform_AWS_Infra
+
+Exporter vers Sheets
+Une fois dans le dossier, vous trouverez le README.md spécifique qui contient toutes les instructions détaillées pour l'installation, l'exécution et la vérification du projet.
+
+
+
+
+
+
 ***
 #### [Détails du Projet 01 : API Test Pipeline (CI/CD)](01_API_Test_Pipeline/README.md)
 #### [Détails du Projet 02 : Déploiement K8s et Bases de Données](02_Kubernetes_Microservice_Deployment/README.md)
