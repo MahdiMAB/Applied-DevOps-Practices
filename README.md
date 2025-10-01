@@ -38,27 +38,28 @@ Pour explorer et exécuter les projets, suivez ces étapes.
 1. Clonage du Dépôt
 Commencez par cloner l'intégralité du dépôt sur votre machine locale :
 
-''' Bash
-
-git clone https://github.com/MahdiMAB/Applied-DevOps-Practices.git
-'''
-cd Applied-DevOps-Practices
-(Remplacez [URL_DE_VOTRE_DEPOT] par l'URL HTTP ou SSH réelle de votre dépôt GitHub.)
+ ```bash
+    git clone https://github.com/MahdiMAB/Applied-DevOps-Practices.git
+    ```
 
 2. Accéder aux Projets
 Utilisez la commande cd pour entrer dans le dossier du projet que vous souhaitez examiner.
 
 Projet	Commande pour y accéder rapidement
-Projet 01 (01_API_Test_Pipeline)	cd 01_API_Test_Pipeline
-Projet 02 (02_Kubernetes_Microservice_Deployment)	cd 02_Kubernetes_Microservice_Deployment
-Projet 03 (03_Terraform_AWS_Infra)	cd 03_Terraform_AWS_Infra
+Projet 01 (01_API_Test_Pipeline)
+```bash
+cd 01_API_Test_Pipeline
+```
+Projet 02 (02_Kubernetes_Microservice_Deployment)	
+```bash
+cd 02_Kubernetes_Microservice_Deployment
+```
+Projet 03 (03_Terraform_AWS_Infra)	
+```bash
+cd 03_Terraform_AWS_Infra
+```
 
-Exporter vers Sheets
 Une fois dans le dossier, vous trouverez le README.md spécifique qui contient toutes les instructions détaillées pour l'installation, l'exécution et la vérification du projet.
-
-
-
-
 
 
 ***
