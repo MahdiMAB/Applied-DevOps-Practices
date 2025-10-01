@@ -1,4 +1,4 @@
-# 🐳 02 - Déploiement d'Architecture Microservice sur Kubernetes (FastAPI & PostgreSQL)
+#  02 - Déploiement d'Architecture Microservice sur Kubernetes (FastAPI & PostgreSQL)
 
 ## Introduction
 Ce projet consiste à déployer une application de streaming composée de deux microservices — une API **FastAPI** et une base de données **PostgreSQL** — au sein d'un cluster **Kubernetes (K8s)**.
