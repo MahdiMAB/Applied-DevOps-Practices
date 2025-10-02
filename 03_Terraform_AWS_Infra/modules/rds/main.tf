@@ -53,7 +53,7 @@ resource "aws_security_group" "db_sg" {
     from_port   = 3306
     to_port     = 3306
     protocol    = "tcp"
-    security_groups = [var.sg_ec2] # Autoriser uniquement le trafic depuis le serveur web
+    security_groups = [var.sg_ec2] 
   }
 
   egress {
