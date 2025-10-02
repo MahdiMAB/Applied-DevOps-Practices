@@ -22,7 +22,7 @@ resource "aws_instance" "web_server" {
   db_user     = var.username,
   db_password = var.password,
   db_host     = var.db_host,
-  wordpress_dir = "/var/www/html"  # Ajoute cette ligne
+  wordpress_dir = "/var/www/html"  
 })
 
   tags = {
