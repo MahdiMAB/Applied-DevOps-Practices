@@ -58,4 +58,4 @@ Ce projet intègre plusieurs pratiques fondamentales pour un déploiement sécur
 
 * **Sécurité des Secrets (Variables Sensibles)** : Les identifiants de la base de données (`username`, `password`) sont gérés comme des variables d'environnement (`TF_VAR_...`) et déclarés comme `sensitive = true` dans `variables.tf`. Cela garantit que les secrets ne sont jamais exposés en clair dans les fichiers de configuration, les logs ou la sortie `terraform plan`.
 * **Bootstrapping Dynamique (User Data)** : L'installation et la configuration de l'application (WordPress) sur l'instance EC2 sont gérées via un script **`install_wordpress.tpl`**. Ce fichier utilise la fonction `templatefile` pour injecter dynamiquement le nom d'hôte de l'instance RDS (`db_host`) et les identifiants de connexion, assurant une configuration sans intervention manuelle et découplée des ressources.
-* **Gestion des Accès** : La clé SSH est générée et gérée par le processus (via AWS CLI), garantissant que l'accès à l'instance EC2 est sécurisé via une paire de clés.
+
